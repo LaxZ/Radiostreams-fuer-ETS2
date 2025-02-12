@@ -1,6 +1,6 @@
 SiiNunit
 {
-live_stream_def : .live_streams {
+live_stream_def : _nameless.000.0000.0000 {
  stream_data: 177
  stream_data[0]: "|* Created by LaxZ *|-|-|0"
  stream_data[1]: "|[+++ Premium Radios +++]|-|-|0"
@@ -178,7 +178,7 @@ live_stream_def : .live_streams {
  stream_data[173]: "http://edge67.streamonkey.net/schweinfurt-radiohashtagplus|Radio Hashtag Plus|Mix|DE|128"
  stream_data[174]: "|[+++++ Informationen +++++]|-|-|0"
  stream_data[175]: "|* Wunsch Radio? GitHub > LaxZ *|-|-|0"
- stream_data[176]: "|* Version: 6.1.1 *|-|-|0"
+ stream_data[176]: "|* Version: 6.1.2 *|-|-|0"
 }
 
 }
